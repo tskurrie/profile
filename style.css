@@ -39,6 +39,12 @@ body {
     width: 85vw;
     margin: 40px auto;
   }
+
+  .nav {
+      width: 100vw;
+      height: 100px;
+      margin: 10px
+  }  
   
   @media (max-width: 960px) {
     /* For a screen < 960px, this CSS will be read */
