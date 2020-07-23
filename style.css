@@ -28,11 +28,12 @@ body {
     color: #051865;
     font-weight: 600;
     font-size: 16px;
+    display: inline-block;
   }
+
   a:hover {
     color: 617EF2;
   }
-  
   
   /* Custom design with class (99% of your design) */
   .container {
@@ -62,24 +63,26 @@ body {
   
   .card-white {
     background-color: white;
-    padding: 40px;
+    padding: .5vh;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
     border-radius: 4px;
     margin: 20px 0px;
     text-align: center;
   }
+
   .img-circle {
     border-radius: 50%;
     width: 25vw;
   }
   .btn-blue {
-    background-color: #6B72E1;
+    background-color: #051865;
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
+    margin: 20px 40px;
   }
   .btn-blue:hover {
-    background-color: black;
+    background-color: #617EF2;
     color: white;
   }
   .list-inline {
