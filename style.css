@@ -45,6 +45,8 @@ body {
       height: 40px;
       margin: 0px;
       background-color: white;
+      position: fixed;
+      top: 0px;
   }  
   
   @media (max-width: 960px) {
