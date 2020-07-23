@@ -70,6 +70,7 @@ body {
   }
   .img-circle {
     border-radius: 50%;
+    width: 50vw;
   }
   .btn-blue {
     background-color: #6B72E1;
